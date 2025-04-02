@@ -270,7 +270,7 @@ In order to change the ``oneadmin`` credentials you have to do the following in 
 
 .. warning:: After changing the password, please restart OpenNebula service.
 
-In order to change ``serveradmin`` credentials you have to do the following in the fontend :ref:`follow these steps <serveradmin_credentials>`.
+In order to change ``serveradmin`` credentials you have to do the following in the Front-end :ref:`follow these steps <serveradmin_credentials>`.
 
  .. prompt:: bash # auto
 

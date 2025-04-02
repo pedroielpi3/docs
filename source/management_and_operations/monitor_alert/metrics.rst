@@ -1,7 +1,7 @@
 .. _monitor_alert_resource:
 
 ================================================================================
-OpenNebula Resouce Metrics
+OpenNebula Resource Metrics
 ================================================================================
 
 This document provides an overview of the metrics collected by OpenNebula's default probes for each resource type and explains how this data is utilized within the system
